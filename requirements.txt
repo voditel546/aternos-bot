@@ -1,0 +1,2 @@
+python-telegram-bot==20.0
+mcstatus==11.0.0
